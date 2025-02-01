@@ -18,10 +18,10 @@ The analysis is based on the following CSV files:
 
 # Tech Stack
 
-Python: The programming language for data analysis.
-Pandas: For data manipulation and cleaning.
-Matplotlib & Seaborn: For creating visualizations.
-Jupyter Notebook: The environment used for developing and sharing the analysis.
+1. Python: The programming language for data analysis.
+2. Pandas: For data manipulation and cleaning.
+3. Matplotlib & Seaborn: For creating visualizations.
+4. Jupyter Notebook: The environment used for developing and sharing the analysis.
 
 # Data Cleaning
 
@@ -42,4 +42,17 @@ Once the data was cleaned, I jumped into EDA to uncover trends and patterns:
 3. Categorical Insights: Leveraged heatmaps to visualize the distribution of booking statuses (Checked Out, Cancelled, No Show) across various booking platforms.
 4. Correlation Studies: Explored relationships between key variables—like examining whether longer booking lead times are associated with higher cancellation rates or if longer stays correlate with higher guest   
    ratings.
-5. Visual Storytelling: Combined various visualizations to present the data in a way that’s both informative and easy to understand, making the insights accessible at a glance.   
+5. Visual Storytelling: Combined various visualizations to present the data in a way that’s both informative and easy to understand, making the insights accessible at a glance.
+
+# Insights Generated.
+
+1. Occupancy rate for Business and Luxury category is 58.2% and 57.7% respectively.
+2. RoomType 2 has highest bookings of 49484 and RoomType4 has lowest bookings of 16602.
+3. Both the hotel category Business and Luxury sees higher bookings in Weekday as compared to Weekend.
+4. Hotel AtliQ Blu has operated 37 times in full occupancy and AtliQ Palace has operated 10 times in full occupancy which is lowest.
+5. Across every hotel revenue realized is between 85 - 90 % of the revenue genrated.
+6. AtliQ Palace has the highest revenue leakeage of 52.83M due to cancellations.
+7. The average booking lead time for Luxury and Business category is 2 and 4 days respectively.
+8. AtliQ Blue hotel has highest average rating of 3.8 and AtliQ Seasons hotel has lowest average rating of 3.1.
+
+
